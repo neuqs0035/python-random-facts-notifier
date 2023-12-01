@@ -20,4 +20,4 @@ while True:
             app_name = "Facts",
             timeout=10
         )
-    sleep(50)
+    sleep(7200)
