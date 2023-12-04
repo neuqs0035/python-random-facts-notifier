@@ -16,7 +16,11 @@ Before running the script, ensure you have the following installed:
     ```bash
     pip install plyer
     ```
+- **Requests:** Install it using the following command:
 
+    ```bash
+    pip install requests
+    ```
 ## How to Run
 
 1. **Clone the Repository:**
