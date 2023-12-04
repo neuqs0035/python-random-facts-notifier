@@ -36,7 +36,7 @@ Before running the script, ensure you have the following installed:
    OR
    **Run In Background:**
    ```bash
-   python FACT_NOTIFIER.py
+   pythonw FACT_NOTIFIER.py
    ```
 
 ## How To Stop Running Script In Background
