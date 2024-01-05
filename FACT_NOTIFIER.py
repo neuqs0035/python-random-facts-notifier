@@ -25,8 +25,10 @@ while True:
 
         # Displaying a desktop notification with the retrieved fact
         notification.notify(
+            title="Facts",
             message=data['text'],
             app_name="Facts",  # Setting the app name for the notification
+            app_icon = "fact_icon.ico",
             timeout=10  # Setting the notification timeout in seconds
         )
 
